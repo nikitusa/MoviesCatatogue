@@ -1,0 +1,16 @@
+C:\Users\ninovikov\source\repos\MoviesCatatogue\0zadanie\bin\Debug\net10.0\0zadanie.exe
+C:\Users\ninovikov\source\repos\MoviesCatatogue\0zadanie\bin\Debug\net10.0\0zadanie.deps.json
+C:\Users\ninovikov\source\repos\MoviesCatatogue\0zadanie\bin\Debug\net10.0\0zadanie.runtimeconfig.json
+C:\Users\ninovikov\source\repos\MoviesCatatogue\0zadanie\bin\Debug\net10.0\0zadanie.dll
+C:\Users\ninovikov\source\repos\MoviesCatatogue\0zadanie\bin\Debug\net10.0\0zadanie.pdb
+C:\Users\ninovikov\source\repos\MoviesCatatogue\0zadanie\obj\Debug\net10.0\0zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninovikov\source\repos\MoviesCatatogue\0zadanie\obj\Debug\net10.0\0zadanie.AssemblyInfoInputs.cache
+C:\Users\ninovikov\source\repos\MoviesCatatogue\0zadanie\obj\Debug\net10.0\0zadanie.AssemblyInfo.cs
+C:\Users\ninovikov\source\repos\MoviesCatatogue\0zadanie\obj\Debug\net10.0\0zadanie.csproj.CoreCompileInputs.cache
+C:\Users\ninovikov\source\repos\MoviesCatatogue\0zadanie\obj\Debug\net10.0\0zadanie.sourcelink.json
+C:\Users\ninovikov\source\repos\MoviesCatatogue\0zadanie\obj\Debug\net10.0\0zadanie.dll
+C:\Users\ninovikov\source\repos\MoviesCatatogue\0zadanie\obj\Debug\net10.0\refint\0zadanie.dll
+C:\Users\ninovikov\source\repos\MoviesCatatogue\0zadanie\obj\Debug\net10.0\0zadanie.pdb
+C:\Users\ninovikov\source\repos\MoviesCatatogue\0zadanie\obj\Debug\net10.0\0zadanie.genruntimeconfig.cache
+C:\Users\ninovikov\source\repos\MoviesCatatogue\0zadanie\obj\Debug\net10.0\ref\0zadanie.dll
+C:\Users\ninovikov\source\repos\MoviesCatatogue\0zadanie\obj\Debug\net10.0\0zadanie.csproj.Up2Date

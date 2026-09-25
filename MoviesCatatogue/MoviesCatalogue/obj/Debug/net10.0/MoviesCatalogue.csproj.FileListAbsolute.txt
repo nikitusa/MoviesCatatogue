@@ -1,0 +1,16 @@
+C:\Users\ninovikov\source\repos\MoviesCatatogue\MoviesCatalogue\bin\Debug\net10.0\MoviesCatalogue.exe
+C:\Users\ninovikov\source\repos\MoviesCatatogue\MoviesCatalogue\bin\Debug\net10.0\MoviesCatalogue.deps.json
+C:\Users\ninovikov\source\repos\MoviesCatatogue\MoviesCatalogue\bin\Debug\net10.0\MoviesCatalogue.runtimeconfig.json
+C:\Users\ninovikov\source\repos\MoviesCatatogue\MoviesCatalogue\bin\Debug\net10.0\MoviesCatalogue.dll
+C:\Users\ninovikov\source\repos\MoviesCatatogue\MoviesCatalogue\bin\Debug\net10.0\MoviesCatalogue.pdb
+C:\Users\ninovikov\source\repos\MoviesCatatogue\MoviesCatalogue\obj\Debug\net10.0\MoviesCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninovikov\source\repos\MoviesCatatogue\MoviesCatalogue\obj\Debug\net10.0\MoviesCatalogue.AssemblyInfoInputs.cache
+C:\Users\ninovikov\source\repos\MoviesCatatogue\MoviesCatalogue\obj\Debug\net10.0\MoviesCatalogue.AssemblyInfo.cs
+C:\Users\ninovikov\source\repos\MoviesCatatogue\MoviesCatalogue\obj\Debug\net10.0\MoviesCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\ninovikov\source\repos\MoviesCatatogue\MoviesCatalogue\obj\Debug\net10.0\MoviesCatalogue.sourcelink.json
+C:\Users\ninovikov\source\repos\MoviesCatatogue\MoviesCatalogue\obj\Debug\net10.0\MoviesCatalogue.dll
+C:\Users\ninovikov\source\repos\MoviesCatatogue\MoviesCatalogue\obj\Debug\net10.0\refint\MoviesCatalogue.dll
+C:\Users\ninovikov\source\repos\MoviesCatatogue\MoviesCatalogue\obj\Debug\net10.0\MoviesCatalogue.pdb
+C:\Users\ninovikov\source\repos\MoviesCatatogue\MoviesCatalogue\obj\Debug\net10.0\MoviesCatalogue.genruntimeconfig.cache
+C:\Users\ninovikov\source\repos\MoviesCatatogue\MoviesCatalogue\obj\Debug\net10.0\ref\MoviesCatalogue.dll
+C:\Users\ninovikov\source\repos\MoviesCatatogue\MoviesCatalogue\obj\Debug\net10.0\MoviesCa.C99220B2.Up2Date
